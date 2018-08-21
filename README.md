@@ -1,6 +1,6 @@
 # Portfolio-Template
 
-Develop a portfolio using HTML, CSS and Bootstrap. 
+Developed a portfolio using HTML, CSS and Bootstrap. 
 Image source: https://burst.shopify.com
 ## Getting Started
 
